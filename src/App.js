@@ -58,7 +58,7 @@ function App() {
           <label> Enter Your Weight in Kg :
             <input className='input' type='text' name='weight'  onChange={handleInputValue} />
           </label> <br />
-          <label> Enter Your Height in Meter :
+          <label> Enter Your Height  :
             <input className='input' type='text' name='height' onChange={handleInputValue} />
           </label> <br /> <br />
           <button className='submitButton' type='submit'> Check Your Bmi Value  </button>
